@@ -1,4 +1,4 @@
-public class Challenge {
+public class BasicCalculator {
     public static int calculator(int num1, char operator, int num2) {
         switch (operator) {
             case '+':
