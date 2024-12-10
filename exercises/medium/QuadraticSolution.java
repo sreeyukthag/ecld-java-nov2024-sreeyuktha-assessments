@@ -1,8 +1,7 @@
-
 import java.util.Scanner;
 
 
-public class Main {
+public class QuadraticSolution {
     public static int solutions(int a, int b, int c) {
         int D=b*b-4*a*c;
         if(D>0)
