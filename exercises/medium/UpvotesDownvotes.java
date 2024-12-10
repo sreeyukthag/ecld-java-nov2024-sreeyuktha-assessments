@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class UpvotesDownvotes {
         public static int getVoteCount(int upVotes,int downVotes) {
             if (upVotes>downVotes)
                 return upVotes-downVotes;
