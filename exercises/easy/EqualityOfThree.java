@@ -1,4 +1,4 @@
-public class Challenge {
+public class EqualityOfThree {
 	public static int equal(int a, int b, int c) {
 		if(a==b && b==c){
 			return 3;
